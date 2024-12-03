@@ -37,4 +37,6 @@ Passengers who embarked at Cherbourg (C) had a higher survival rate than those w
 
 ### Step 7: Contact For questions or suggestions, please contact:
 
-Name: Mohammed Zaidaan Shiraz Email: zaidaanshiraz8@gmail.com GitHub: zaidaanshiraz
+Name: Mohammed Zaidaan Shiraz 
+Email: zaidaanshiraz8@gmail.com 
+GitHub: zaidaanshiraz
