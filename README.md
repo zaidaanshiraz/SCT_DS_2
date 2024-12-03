@@ -34,3 +34,7 @@ Women had a higher survival rate than men.
 First-class passengers had a higher survival rate than those in lower classes.
 Younger passengers had a higher chance of survival.
 Passengers who embarked at Cherbourg (C) had a higher survival rate than those who embarked at Southampton (S) or Queenstown (Q).
+
+### Step 7: Contact For questions or suggestions, please contact:
+
+Name: Mohammed Zaidaan Shiraz Email: zaidaanshiraz8@gmail.com GitHub: zaidaanshiraz
